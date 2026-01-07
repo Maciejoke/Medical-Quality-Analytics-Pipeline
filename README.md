@@ -61,7 +61,7 @@ Projekt realizuje pełny przepływ danych:
     * Logi z importu pojawią się w konsoli.
 
 ## 📊 Przykładowe wizualizacje
-![Wykres1](<img width="1411" height="2211" alt="Wizualizacje Testowe" src="https://github.com/user-attachments/assets/3a4efa3e-b082-4f34-bcb9-34788c31ad99" />)
+![Wykres1](https://github.com/Maciejoke/Medical-Quality-Analytics-Pipeline/blob/078cdf02752bb28ee7448e908d670a56d00b5fab/Wizualizacje%20Testowe.png)
 
 ---
 *Autor: Maciej Urban*
