@@ -9,11 +9,9 @@
 **Medical Quality Analytics Pipeline** to zautomatyzowany proces ETL (Extract, Transform, Load) zaprojektowany do monitorowania kluczowych wskaźników jakości (KPI) w placówkach medycznych.
 
 Projekt powstał w celu rozwiązania problemu manualnego raportowania wskaźników takich jak:
-* Rehospitalizacje (powroty pacjentów w krótkim czasie).
-* Przedłużone pobyty (analiza LOS - Length of Stay).
-* Zgony i powikłania.
+* Przedłużone pobyty.
 
-System wspiera procesy decyzyjne i pomaga w utrzymaniu standardów wymaganych do **certyfikacji ISO** oraz raportowania do **NFZ**.
+System wspiera procesy decyzyjne i pomaga w utrzymaniu standardów wymaganych do **Akredytacji** oraz raportowania do **NFZ**.
 
 > **Uwaga:** Ze względu na wrażliwy charakter danych medycznych (RODO/GDPR), repozytorium zawiera wyłącznie **wygenerowane dane syntetyczne**, które zachowują strukturę statystyczną oryginału, ale nie zawierają prawdziwych danych osobowych.
 
@@ -63,8 +61,7 @@ Projekt realizuje pełny przepływ danych:
     * Logi z importu pojawią się w konsoli.
 
 ## 📊 Przykładowe wizualizacje
-*(Tutaj warto wstawić screenshoty wygenerowanych wykresów, np. w folderze /img)*
-![Wykres1](sciezka/do/obrazka.png)
+![Wykres1](<img width="1411" height="2211" alt="Wizualizacje Testowe" src="https://github.com/user-attachments/assets/3a4efa3e-b082-4f34-bcb9-34788c31ad99" />)
 
 ---
 *Autor: Maciej Urban*
