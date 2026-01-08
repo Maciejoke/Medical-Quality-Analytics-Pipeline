@@ -159,7 +159,7 @@ def get_sex_from_pesel(pesel):
 
 # --- IMPORT DANYCH ---
 try:
-    df = pd.read_excel(Dane testowe.xlsx)
+    df = pd.read_excel(NAZWA_PLIKU)
     col_pesel = [c for c in df.columns if 'PESEL' in str(c).upper()][0]
 
     df['real_birth_date'] = df[col_pesel].apply(get_birth_date_from_pesel)
