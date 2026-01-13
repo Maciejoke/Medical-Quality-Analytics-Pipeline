@@ -394,5 +394,4 @@ def analiza_kpi_cmj_szczegolowa_procent_globalny(db_path):
 
     plt.show()
 
-# Uruchomienie
 analiza_kpi_cmj_szczegolowa_procent_globalny(DB_FILE)
